@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "id": "circle-1",
+      "elements": [
+        {
+          "id": "1",
+          "name": "Adell Group",
+          "logo": "./assets/images/adell.png",
+          "employee": "Əli Əliyev",
+          "position": "Satış meneceri",
+          "comment": "QR Gate ilə iş proseslərimizdə böyük bir dəyişiklik gördük. Artıq işçilərin giriş-çıxış vaxtlarını dəqiq və asanlıqla izləyə bilirik. Bu, həm vaxtı səmərəli idarə etməyə, həm də məsuliyyət bölgüsünü optimallaşdırmağa kömək edir. "
+        },
+        {
+          "id": "2",
+          "name": "Audi Baku",
+          "logo": "./assets/images/audi.png",
+          "employee": "Nigar Quliyeva",
+          "position": "Layihə rəhbəri",
+          "comment": "Əməkdaşların daxilolma və çıxışları artıq real vaxtda nəzarət altındadır. Bu, idarəetməni asanlaşdırır."
+        },
+        {
+          "id": "3",
+          "name": "TechnoMax",
+          "logo": "./assets/images/istanbul-cicekleri.png",
+          "employee": "Tunar İsmayılov",
+          "position": "İT mütəxəssisi",
+          "comment": "Sistemin sadəliyi və funksionallığı bizi çox qane edir. Davamiyyət izləmə prosesi tam avtomatlaşdırılıb."
+        },
+        {
+          "id": "4",
+          "name": "SpeedAuto",
+          "logo": "./assets/images/audi.png",
+          "employee": "Aytən Rəhimova",
+          "position": "Ofis meneceri",
+          "comment": "Əvvəl əllə aparılan qeydiyyat artıq tarixə çevrildi. QR Gate sayəsində işimiz yüngülləşdi."
+        },
+        {
+          "id": "5",
+          "name": "Sunflower Studio",
+          "logo": "./assets/images/adell.png",
+          "employee": "Murad Səfərov",
+          "position": "Studiyə rəhbəri",
+          "comment": "İşçilərin işə gəlmə vaxtları dəqiq qeydə alınır. Nəticədə intizam və məsuliyyət artıb."
+        },
+        {
+          "id": "6",
+          "name": "AutoPoint",
+          "logo": "./assets/images/audi.png",
+          "employee": "Züleyxa Məmmədova",
+          "position": "HR meneceri",
+          "comment": "İşçi davamiyyətinə dair hesabatları bir kliklə əldə edirik. Bu, analizləri sürətləndirdi."
+        }
+      ]
+    },
+    {
+      "id": "circle-2",
+      "elements": [
+        {
+          "id": "7",
+          "name": "İstanbul Çiçəkləri",
+          "logo": "./assets/images/istanbul-cicekleri.png",
+          "employee": "Rəşad Məmmədov",
+          "position": "Marketinq direktoru",
+          "comment": "Komanda daxilində məsuliyyət bölgüsünü daha şəffaf şəkildə aparmaq imkanımız yarandı."
+        },
+        {
+          "id": "8",
+          "name": "Senorita Boutique",
+          "logo": "./assets/images/senorita.png",
+          "employee": "Ləman Hacıyeva",
+          "position": "Satış məsləhətçisi",
+          "comment": "İş vaxtına nəzarət indi çox rahat və əlçatan olub. Müştəri xidmətləri də bundan faydalanır."
+        },
+        {
+          "id": "9",
+          "name": "GreenTech Solutions",
+          "logo": "./assets/images/adell.png",
+          "employee": "Ülviyyə Səmədova",
+          "position": "İnsan resursları mütəxəssisi",
+          "comment": "QR Gate sistemini tətbiq etdikdən sonra nizam-intizamda nəzərəçarpacaq irəliləyiş oldu."
+        },
+        {
+          "id": "10",
+          "name": "AutoWorld",
+          "logo": "./assets/images/istanbul-cicekleri.png",
+          "employee": "Rəvan Qasımov",
+          "position": "Texniki dəstək rəhbəri",
+          "comment": "Sistem istifadəsi çox rahatdır. Texniki heyətimiz sistemə tez uyğunlaşdı."
+        },
+        {
+          "id": "11",
+          "name": "DriveX Company",
+          "logo": "./assets/images/audi.png",
+          "employee": "Elçin Məlikli",
+          "position": "İnzibati rəhbər",
+          "comment": "Müxtəlif şöbələrdə çalışanların giriş-çıxışı üzərində nəzarətimiz artdı. Bu, iş prosesini stabilləşdirdi."
+        }
+      ]
+    },
+    {
+      "id": "circle-3",
+      "elements": [
+        {
+          "id": "12",
+          "name": "BrightTech",
+          "logo": "./assets/images/adell.png",
+          "employee": "Aysel Məmmədli",
+          "position": "İnsan Resursları Meneceri",
+          "comment": "Davranış və davamiyyət hesabatlarının dəqiqliyi bizi çox razı saldı. Qısa zamanda nəticələr gördük."
+        },
+        {
+          "id": "13",
+          "name": "AutoLux Baku",
+          "logo": "./assets/images/audi.png",
+          "employee": "Kamran Abbasov",
+          "position": "Maliyyə meneceri",
+          "comment": "Giriş-çıxış vaxtlarının izlənməsi büdcə planlamasına da müsbət təsir etdi."
+        }
+      ]
+    }
+  ]
+}
